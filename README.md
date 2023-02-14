@@ -11,3 +11,5 @@ Aprendendo a usar o Git
 * `git checkout` // Manipula as linhas do tempo
 * `git merge` // Une as linhas do tempo
 * `git push` // Envia as alterações para o repositório remoto
+* `git clone` //  clona um repositórrio remoto
+* `git pull` //
