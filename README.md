@@ -10,6 +10,7 @@ Aprendendo a usar o Git
 * `git show` // Apresenta determinado ponto da história
 * `git branch` // Gerencia novas linhas do tempo
 * `git checkout` // Manipula as linhas do tempo
+* `git chekout enderecolog -- arquivo` // Recupera uma alteração de arquivo
 * `git merge` // Une as linhas do tempo
 * `git push` // Envia as alterações para o repositório remoto
 * `git clone` // Clona um repositórrio remoto
