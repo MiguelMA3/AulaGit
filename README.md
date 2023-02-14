@@ -3,7 +3,8 @@ Aprendendo a usar o Git
 * `git init` // Inicia a linha do tempo
 * `git add` // Adiciona ou atualiza mudanças para irem à linha do tempo
 * `git commit` // Adiciona um ponto à linha do tempo
-* `git add/commit .` // Adiciona todas as mudanças
+* `git add/commit .` // Comando rápido que adiciona todas as mudanças
+* `git commit -am` // Comando rápido que adiciona e atualiza
 * `git log` // Vizualiza os pontos da linha do tempo / commit
 * `git status` // Informa o estado das alterações do projeto
 * `git show` // Apresenta determinado ponto da história
